@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Print a welcome message
-        System.out.println("how are you");
+        System.out.println("how are you : I am well");
 
         // Create a Scanner object to read input from the user
         // Scanner scanner = new Scanner(System.in);
